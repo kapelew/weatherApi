@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #7CA5B8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    color: whitesmoke;;
+    font-size: 2em;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+main img,input,button,span{
+    margin-bottom: 1em;
+}
+
+main button, input{
+    width: 200px;
+    height: 40px;
+
+}
+
+#usersCity{
+    background-color: #fff;
+    border: 0 solid #e2e8f0;
+    border-radius: 1rem;
+    color: #0d172a;
+    text-align: center;
+}
+
+#checkWeather{
+    background-color: #fff;
+    border: 0 solid #e2e8f0;
+    border-radius: 1rem;
+    color: #0d172a;
+    cursor: pointer;
+    text-align: center;
+}
+
+#checkWeather:hover{
+    background-color: #1e293b;
+    color: #fff;
+}
