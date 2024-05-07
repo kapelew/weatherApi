@@ -4,7 +4,7 @@ Prosta aplikacja do sprawdzania pogody w miescie podanym przez uzytkownika w opa
 
 ## Dostęp
 
-https://github.com/kapelew/weatherApi
+https://kapelew.github.io/weatherApi/
 
 ## Demo
 <img width="600" src="https://github.com/kapelew/weatherApi/assets/75472639/cef4fdfb-343d-4fd4-b242-d48d316b16c1" alt="exampleUsage">
